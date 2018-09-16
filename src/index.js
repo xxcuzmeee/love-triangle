@@ -17,6 +17,7 @@ function getLoveTrianglesCount(){
           TrianglesNumber++;
       }
   }
+  
   if (TrianglesNumber > 0) {
      TrianglesNumber = TrianglesNumber / 3;
   }
